@@ -1,0 +1,16 @@
+.DS_Store
+node_modules/
+/dist/
+/dist*/
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+package-lock.json
+.http
+/src/ilotH5.html
+*.sh
